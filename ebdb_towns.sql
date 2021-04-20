@@ -1,958 +1,959 @@
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (1, 1, 'Aladağ(Karsantı)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (2, 1, 'Ceyhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (3, 1, 'Çukurova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (4, 1, 'Feke', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (5, 1, 'İmamoğlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (6, 1, 'Karaisalı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (7, 1, 'Karataş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (8, 1, 'Kozan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (9, 1, 'Pozantı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (10, 1, 'Saimbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (11, 1, 'Sarıçam', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (12, 1, 'Seyhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (13, 1, 'Tufanbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (14, 1, 'Yumurtalık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (15, 1, 'Yüreğir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (16, 2, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (17, 2, 'Besni', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (18, 2, 'Çelikhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (19, 2, 'Gerger', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (20, 2, 'Gölbaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (21, 2, 'Kahta', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (22, 2, 'Samsat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (23, 2, 'Sincik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (24, 2, 'Tut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (25, 3, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (26, 3, 'Başmakçı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (27, 3, 'Bayat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (28, 3, 'Bolvadin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (29, 3, 'Çay', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (30, 3, 'Çobanlar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (31, 3, 'Dazkırı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (32, 3, 'Dinar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (33, 3, 'Emirdağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (34, 3, 'Evciler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (35, 3, 'Hocalar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (36, 3, 'İhsaniye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (37, 3, 'İscehisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (38, 3, 'Kızılören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (39, 3, 'Sandıklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (40, 3, 'Sincanlı(Sinanpaşa)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (41, 3, 'Sultandağı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (42, 3, 'Şuhut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (43, 4, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (44, 4, 'Diyadin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (45, 4, 'Doğubeyazıt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (46, 4, 'Eleşkirt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (47, 4, 'Hamur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (48, 4, 'Patnos', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (49, 4, 'Taşlıçay', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (50, 4, 'Tutak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (51, 5, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (52, 5, 'Göynücek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (53, 5, 'Gümüşhacıköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (54, 5, 'Hamamözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (55, 5, 'Merzifon', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (56, 5, 'Suluova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (57, 5, 'Taşova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (58, 6, 'Akyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (59, 6, 'Altındağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (60, 6, 'Ayaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (61, 6, 'Bala', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (62, 6, 'Beypazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (63, 6, 'Çamlıdere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (64, 6, 'Çankaya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (65, 6, 'Çubuk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (66, 6, 'Elmadağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (67, 6, 'Etimesgut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (68, 6, 'Evren', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (69, 6, 'Gölbaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (70, 6, 'Güdül', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (71, 6, 'Haymana', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (72, 6, 'Kalecik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (73, 6, 'Kazan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (74, 6, 'Keçiören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (75, 6, 'Kızılcahamam', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (76, 6, 'Mamak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (77, 6, 'Nallıhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (78, 6, 'Polatlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (79, 6, 'Pursaklar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (80, 6, 'Sincan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (81, 6, 'Şereflikoçhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (82, 6, 'Yenimahalle', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (83, 7, 'Akseki', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (84, 7, 'Aksu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (85, 7, 'Alanya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (86, 7, 'Döşemealtı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (87, 7, 'Elmalı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (88, 7, 'Finike', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (89, 7, 'Gazipaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (90, 7, 'Gündoğmuş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (91, 7, 'İbradı(Aydınkent)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (92, 7, 'Kale(Demre)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (93, 7, 'Kaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (94, 7, 'Kemer', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (95, 7, 'Kepez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (96, 7, 'Konyaaltı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (97, 7, 'Korkuteli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (98, 7, 'Kumluca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (99, 7, 'Manavgat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (100, 7, 'Muratpaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (101, 7, 'Serik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (102, 8, 'Ardanuç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (103, 8, 'Arhavi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (104, 8, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (105, 8, 'Borçka', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (106, 8, 'Hopa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (107, 8, 'Murgul(Göktaş)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (108, 8, 'Şavşat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (109, 8, 'Yusufeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (110, 9, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (111, 9, 'Bozdoğan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (112, 9, 'Buharkent(Çubukdağı)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (113, 9, 'Çine', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (114, 9, 'Didim(Yenihisar)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (115, 9, 'Germencik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (116, 9, 'İncirliova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (117, 9, 'Karacasu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (118, 9, 'Karpuzlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (119, 9, 'Koçarlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (120, 9, 'Köşk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (121, 9, 'Kuşadası', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (122, 9, 'Kuyucak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (123, 9, 'Nazilli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (124, 9, 'Söke', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (125, 9, 'Sultanhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (126, 9, 'Yenipazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (127, 10, 'Ayvalık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (128, 10, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (129, 10, 'Balya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (130, 10, 'Bandırma', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (131, 10, 'Bigadiç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (132, 10, 'Burhaniye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (133, 10, 'Dursunbey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (134, 10, 'Edremit', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (135, 10, 'Erdek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (136, 10, 'Gömeç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (137, 10, 'Gönen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (138, 10, 'Havran', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (139, 10, 'İvrindi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (140, 10, 'Kepsut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (141, 10, 'Manyas', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (142, 10, 'Marmara', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (143, 10, 'Savaştepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (144, 10, 'Sındırgı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (145, 10, 'Susurluk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (146, 11, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (147, 11, 'Bozüyük', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (148, 11, 'Gölpazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (149, 11, 'İnhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (150, 11, 'Osmaneli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (151, 11, 'Pazaryeri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (152, 11, 'Söğüt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (153, 11, 'Yenipazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (154, 12, 'Adaklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (155, 12, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (156, 12, 'Genç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (157, 12, 'Karlıova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (158, 12, 'Kığı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (159, 12, 'Solhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (160, 12, 'Yayladere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (161, 12, 'Yedisu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (162, 13, 'Adilcevaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (163, 13, 'Ahlat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (164, 13, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (165, 13, 'Güroymak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (166, 13, 'Hizan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (167, 13, 'Mutki', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (168, 13, 'Tatvan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (169, 14, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (170, 14, 'Dörtdivan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (171, 14, 'Gerede', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (172, 14, 'Göynük', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (173, 14, 'Kıbrıscık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (174, 14, 'Mengen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (175, 14, 'Mudurnu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (176, 14, 'Seben', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (177, 14, 'Yeniçağa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (178, 15, 'Ağlasun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (179, 15, 'Altınyayla(Dirmil)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (180, 15, 'Bucak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (181, 15, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (182, 15, 'Çavdır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (183, 15, 'Çeltikçi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (184, 15, 'Gölhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (185, 15, 'Karamanlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (186, 15, 'Kemer', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (187, 15, 'Tefenni', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (188, 15, 'Yeşilova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (189, 16, 'Büyükorhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (190, 16, 'Gemlik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (191, 16, 'Gürsu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (192, 16, 'Harmancık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (193, 16, 'İnegöl', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (194, 16, 'İznik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (195, 16, 'Karacabey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (196, 16, 'Keles', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (197, 16, 'Kestel', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (198, 16, 'Mudanya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (199, 16, 'Mustafakemalpaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (200, 16, 'Nilüfer', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (201, 16, 'Orhaneli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (202, 16, 'Orhangazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (203, 16, 'Osmangazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (204, 16, 'Yenişehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (205, 16, 'Yıldırım', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (206, 17, 'Ayvacık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (207, 17, 'Bayramiç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (208, 17, 'Biga', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (209, 17, 'Bozcaada', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (210, 17, 'Çan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (211, 17, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (212, 17, 'Eceabat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (213, 17, 'Ezine', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (214, 17, 'Gelibolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (215, 17, 'Gökçeada(İmroz)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (216, 17, 'Lapseki', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (217, 17, 'Yenice', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (218, 18, 'Atkaracalar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (219, 18, 'Bayramören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (220, 18, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (221, 18, 'Çerkeş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (222, 18, 'Eldivan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (223, 18, 'Ilgaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (224, 18, 'Kızılırmak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (225, 18, 'Korgun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (226, 18, 'Kurşunlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (227, 18, 'Orta', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (228, 18, 'Şabanözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (229, 18, 'Yapraklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (230, 19, 'Alaca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (231, 19, 'Bayat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (232, 19, 'Boğazkale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (233, 19, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (234, 19, 'Dodurga', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (235, 19, 'İskilip', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (236, 19, 'Kargı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (237, 19, 'Laçin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (238, 19, 'Mecitözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (239, 19, 'Oğuzlar(Karaören)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (240, 19, 'Ortaköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (241, 19, 'Osmancık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (242, 19, 'Sungurlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (243, 19, 'Uğurludağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (244, 20, 'Acıpayam', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (245, 20, 'Akköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (246, 20, 'Babadağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (247, 20, 'Baklan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (248, 20, 'Bekilli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (249, 20, 'Beyağaç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (250, 20, 'Bozkurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (251, 20, 'Buldan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (252, 20, 'Çal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (253, 20, 'Çameli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (254, 20, 'Çardak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (255, 20, 'Çivril', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (256, 20, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (257, 20, 'Güney', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (258, 20, 'Honaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (259, 20, 'Kale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (260, 20, 'Sarayköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (261, 20, 'Serinhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (262, 20, 'Tavas', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (263, 21, 'Bağlar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (264, 21, 'Bismil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (265, 21, 'Çermik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (266, 21, 'Çınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (267, 21, 'Çüngüş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (268, 21, 'Dicle', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (269, 21, 'Eğil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (270, 21, 'Ergani', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (271, 21, 'Hani', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (272, 21, 'Hazro', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (273, 21, 'Kayapınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (274, 21, 'Kocaköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (275, 21, 'Kulp', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (276, 21, 'Lice', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (277, 21, 'Silvan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (278, 21, 'Sur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (279, 21, 'Yenişehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (280, 22, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (281, 22, 'Enez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (282, 22, 'Havsa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (283, 22, 'İpsala', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (284, 22, 'Keşan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (285, 22, 'Lalapaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (286, 22, 'Meriç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (287, 22, 'Süleoğlu(Süloğlu)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (288, 22, 'Uzunköprü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (289, 23, 'Ağın', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (290, 23, 'Alacakaya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (291, 23, 'Arıcak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (292, 23, 'Baskil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (293, 23, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (294, 23, 'Karakoçan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (295, 23, 'Keban', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (296, 23, 'Kovancılar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (297, 23, 'Maden', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (298, 23, 'Palu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (299, 23, 'Sivrice', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (300, 24, 'Çayırlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (301, 24, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (302, 24, 'İliç(Ilıç)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (303, 24, 'Kemah', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (304, 24, 'Kemaliye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (305, 24, 'Otlukbeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (306, 24, 'Refahiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (307, 24, 'Tercan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (308, 24, 'Üzümlü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (309, 25, 'Aşkale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (310, 25, 'Aziziye(Ilıca)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (311, 25, 'Çat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (312, 25, 'Hınıs', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (313, 25, 'Horasan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (314, 25, 'İspir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (315, 25, 'Karaçoban', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (316, 25, 'Karayazı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (317, 25, 'Köprüköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (318, 25, 'Narman', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (319, 25, 'Oltu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (320, 25, 'Olur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (321, 25, 'Palandöken', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (322, 25, 'Pasinler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (323, 25, 'Pazaryolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (324, 25, 'Şenkaya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (325, 25, 'Tekman', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (326, 25, 'Tortum', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (327, 25, 'Uzundere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (328, 25, 'Yakutiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (329, 26, 'Alpu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (330, 26, 'Beylikova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (331, 26, 'Çifteler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (332, 26, 'Günyüzü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (333, 26, 'Han', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (334, 26, 'İnönü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (335, 26, 'Mahmudiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (336, 26, 'Mihalgazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (337, 26, 'Mihalıçcık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (338, 26, 'Odunpazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (339, 26, 'Sarıcakaya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (340, 26, 'Seyitgazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (341, 26, 'Sivrihisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (342, 26, 'Tepebaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (343, 27, 'Araban', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (344, 27, 'İslahiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (345, 27, 'Karkamış', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (346, 27, 'Nizip', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (347, 27, 'Nurdağı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (348, 27, 'Oğuzeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (349, 27, 'Şahinbey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (350, 27, 'Şehitkamil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (351, 27, 'Yavuzeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (352, 28, 'Alucra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (353, 28, 'Bulancak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (354, 28, 'Çamoluk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (355, 28, 'Çanakçı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (356, 28, 'Dereli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (357, 28, 'Doğankent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (358, 28, 'Espiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (359, 28, 'Eynesil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (360, 28, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (361, 28, 'Görele', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (362, 28, 'Güce', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (363, 28, 'Keşap', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (364, 28, 'Piraziz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (365, 28, 'Şebinkarahisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (366, 28, 'Tirebolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (367, 28, 'Yağlıdere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (368, 29, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (369, 29, 'Kelkit', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (370, 29, 'Köse', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (371, 29, 'Kürtün', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (372, 29, 'Şiran', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (373, 29, 'Torul', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (374, 30, 'Çukurca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (375, 30, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (376, 30, 'Şemdinli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (377, 30, 'Yüksekova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (378, 31, 'Altınözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (379, 31, 'Antakya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (380, 31, 'Belen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (381, 31, 'Dörtyol', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (382, 31, 'Erzin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (383, 31, 'Hassa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (384, 31, 'İskenderun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (385, 31, 'Kırıkhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (386, 31, 'Kumlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (387, 31, 'Reyhanlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (388, 31, 'Samandağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (389, 31, 'Yayladağı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (390, 32, 'Aksu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (391, 32, 'Atabey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (392, 32, 'Eğridir(Eğirdir)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (393, 32, 'Gelendost', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (394, 32, 'Gönen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (395, 32, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (396, 32, 'Keçiborlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (397, 32, 'Senirkent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (398, 32, 'Sütçüler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (399, 32, 'Şarkikaraağaç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (400, 32, 'Uluborlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (401, 32, 'Yalvaç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (402, 32, 'Yenişarbademli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (403, 33, 'Akdeniz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (404, 33, 'Anamur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (405, 33, 'Aydıncık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (406, 33, 'Bozyazı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (407, 33, 'Çamlıyayla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (408, 33, 'Erdemli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (409, 33, 'Gülnar (Gülpınar)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (410, 33, 'Mezitli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (411, 33, 'Mut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (412, 33, 'Silifke', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (413, 33, 'Tarsus', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (414, 33, 'Toroslar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (415, 33, 'Yenişehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (416, 34, 'Adalar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (417, 34, 'Arnavutköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (418, 34, 'Ataşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (419, 34, 'Avcılar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (420, 34, 'Bağcılar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (421, 34, 'Bahçelievler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (422, 34, 'Bakırköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (423, 34, 'Başakşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (424, 34, 'Bayrampaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (425, 34, 'Beşiktaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (426, 34, 'Beykoz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (427, 34, 'Beylikdüzü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (428, 34, 'Beyoğlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (429, 34, 'Büyükçekmece', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (430, 34, 'Çatalca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (431, 34, 'Çekmeköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (432, 34, 'Esenler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (433, 34, 'Esenyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (434, 34, 'Eyüp', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (435, 34, 'Fatih', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (436, 34, 'Gaziosmanpaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (437, 34, 'Güngören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (438, 34, 'Kadıköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (439, 34, 'Kağıthane', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (440, 34, 'Kartal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (441, 34, 'Küçükçekmece', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (442, 34, 'Maltepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (443, 34, 'Pendik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (444, 34, 'Sancaktepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (445, 34, 'Sarıyer', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (446, 34, 'Silivri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (447, 34, 'Sultanbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (448, 34, 'Sultangazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (449, 34, 'Şile', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (450, 34, 'Şişli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (451, 34, 'Tuzla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (452, 34, 'Ümraniye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (453, 34, 'Üsküdar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (454, 34, 'Zeytinburnu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (455, 35, 'Aliağa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (456, 35, 'Balçova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (457, 35, 'Bayındır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (458, 35, 'Bayraklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (459, 35, 'Bergama', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (460, 35, 'Beydağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (461, 35, 'Bornova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (462, 35, 'Buca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (463, 35, 'Cumaovası(Menderes)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (464, 35, 'Çeşme', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (465, 35, 'Çiğli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (466, 35, 'Dikili', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (467, 35, 'Foça', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (468, 35, 'Gaziemir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (469, 35, 'Güzelbahçe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (470, 35, 'Karabağlar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (471, 35, 'Karaburun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (472, 35, 'Karşıyaka', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (473, 35, 'Kemalpaşa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (474, 35, 'Kınık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (475, 35, 'Kiraz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (476, 35, 'Konak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (477, 35, 'Menemen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (478, 35, 'Narlıdere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (479, 35, 'Ödemiş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (480, 35, 'Seferihisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (481, 35, 'Selçuk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (482, 35, 'Tire', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (483, 35, 'Torbalı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (484, 35, 'Urla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (485, 36, 'Akyaka', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (486, 36, 'Arpaçay', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (487, 36, 'Digor', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (488, 36, 'Kağızman', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (489, 36, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (490, 36, 'Sarıkamış', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (491, 36, 'Selim', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (492, 36, 'Susuz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (493, 37, 'Abana', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (494, 37, 'Ağlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (495, 37, 'Araç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (496, 37, 'Azdavay', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (497, 37, 'Bozkurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (498, 37, 'Cide', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (499, 37, 'Çatalzeytin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (500, 37, 'Daday', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (501, 37, 'Devrekani', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (502, 37, 'Doğanyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (503, 37, 'Hanönü(Gökçeağaç)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (504, 37, 'İhsangazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (505, 37, 'İnebolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (506, 37, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (507, 37, 'Küre', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (508, 37, 'Pınarbaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (509, 37, 'Seydiler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (510, 37, 'Şenpazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (511, 37, 'Taşköprü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (512, 37, 'Tosya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (513, 38, 'Akkışla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (514, 38, 'Bünyan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (515, 38, 'Develi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (516, 38, 'Felahiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (517, 38, 'Hacılar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (518, 38, 'İncesu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (519, 38, 'Kocasinan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (520, 38, 'Melikgazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (521, 38, 'Özvatan(Çukur)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (522, 38, 'Pınarbaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (523, 38, 'Sarıoğlan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (524, 38, 'Sarız', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (525, 38, 'Talas', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (526, 38, 'Tomarza', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (527, 38, 'Yahyalı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (528, 38, 'Yeşilhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (529, 39, 'Babaeski', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (530, 39, 'Demirköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (531, 39, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (532, 39, 'Kofçaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (533, 39, 'Lüleburgaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (534, 39, 'Pehlivanköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (535, 39, 'Pınarhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (536, 39, 'Vize', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (537, 40, 'Akçakent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (538, 40, 'Akpınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (539, 40, 'Boztepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (540, 40, 'Çiçekdağı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (541, 40, 'Kaman', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (542, 40, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (543, 40, 'Mucur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (544, 41, 'Başiskele', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (545, 41, 'Çayırova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (546, 41, 'Darıca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (547, 41, 'Derince', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (548, 41, 'Dilovası', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (549, 41, 'Gebze', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (550, 41, 'Gölcük', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (551, 41, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (552, 41, 'Kandıra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (553, 41, 'Karamürsel', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (554, 41, 'Kartepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (555, 41, 'Tütünçiftlik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (556, 42, 'Ahırlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (557, 42, 'Akören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (558, 42, 'Akşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (559, 42, 'Altınekin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (560, 42, 'Beyşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (561, 42, 'Bozkır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (562, 42, 'Cihanbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (563, 42, 'Çeltik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (564, 42, 'Çumra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (565, 42, 'Derbent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (566, 42, 'Derebucak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (567, 42, 'Doğanhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (568, 42, 'Emirgazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (569, 42, 'Ereğli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (570, 42, 'Güneysınır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (571, 42, 'Hadim', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (572, 42, 'Halkapınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (573, 42, 'Hüyük', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (574, 42, 'Ilgın', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (575, 42, 'Kadınhanı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (576, 42, 'Karapınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (577, 42, 'Karatay', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (578, 42, 'Kulu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (579, 42, 'Meram', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (580, 42, 'Sarayönü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (581, 42, 'Selçuklu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (582, 42, 'Seydişehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (583, 42, 'Taşkent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (584, 42, 'Tuzlukçu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (585, 42, 'Yalıhüyük', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (586, 42, 'Yunak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (587, 43, 'Altıntaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (588, 43, 'Aslanapa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (589, 43, 'Çavdarhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (590, 43, 'Domaniç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (591, 43, 'Dumlupınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (592, 43, 'Emet', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (593, 43, 'Gediz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (594, 43, 'Hisarcık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (595, 43, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (596, 43, 'Pazarlar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (597, 43, 'Simav', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (598, 43, 'Şaphane', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (599, 43, 'Tavşanlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (600, 43, 'Tunçbilek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (601, 44, 'Akçadağ', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (602, 44, 'Arapkir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (603, 44, 'Arguvan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (604, 44, 'Battalgazi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (605, 44, 'Darende', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (606, 44, 'Doğanşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (607, 44, 'Doğanyol', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (608, 44, 'Hekimhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (609, 44, 'Kale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (610, 44, 'Kuluncak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (611, 44, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (612, 44, 'Pötürge', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (613, 44, 'Yazıhan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (614, 44, 'Yeşilyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (615, 45, 'Ahmetli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (616, 45, 'Akhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (617, 45, 'Alaşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (618, 45, 'Demirci', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (619, 45, 'Gölmarmara', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (620, 45, 'Gördes', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (621, 45, 'Kırkağaç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (622, 45, 'Köprübaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (623, 45, 'Kula', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (624, 45, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (625, 45, 'Salihli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (626, 45, 'Sarıgöl', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (627, 45, 'Saruhanlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (628, 45, 'Selendi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (629, 45, 'Soma', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (630, 45, 'Turgutlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (631, 46, 'Afşin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (632, 46, 'Andırın', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (633, 46, 'Çağlayancerit', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (634, 46, 'Ekinözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (635, 46, 'Elbistan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (636, 46, 'Göksun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (637, 46, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (638, 46, 'Nurhak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (639, 46, 'Pazarcık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (640, 46, 'Türkoğlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (641, 47, 'Dargeçit', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (642, 47, 'Derik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (643, 47, 'Kızıltepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (644, 47, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (645, 47, 'Mazıdağı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (646, 47, 'Midyat(Estel)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (647, 47, 'Nusaybin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (648, 47, 'Ömerli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (649, 47, 'Savur', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (650, 47, 'Yeşilli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (651, 48, 'Bodrum', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (652, 48, 'Dalaman', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (653, 48, 'Datça', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (654, 48, 'Fethiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (655, 48, 'Kavaklıdere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (656, 48, 'Köyceğiz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (657, 48, 'Marmaris', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (658, 48, 'Milas', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (659, 48, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (660, 48, 'Ortaca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (661, 48, 'Ula', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (662, 48, 'Yatağan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (663, 49, 'Bulanık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (664, 49, 'Hasköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (665, 49, 'Korkut', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (666, 49, 'Malazgirt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (667, 49, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (668, 49, 'Varto', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (669, 50, 'Acıgöl', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (670, 50, 'Avanos', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (671, 50, 'Derinkuyu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (672, 50, 'Gülşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (673, 50, 'Hacıbektaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (674, 50, 'Kozaklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (675, 50, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (676, 50, 'Ürgüp', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (677, 51, 'Altunhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (678, 51, 'Bor', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (679, 51, 'Çamardı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (680, 51, 'Çiftlik(Özyurt)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (681, 51, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (682, 51, 'Ulukışla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (683, 52, 'Akkuş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (684, 52, 'Aybastı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (685, 52, 'Çamaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (686, 52, 'Çatalpınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (687, 52, 'Çaybaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (688, 52, 'Fatsa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (689, 52, 'Gölköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (690, 52, 'Gülyalı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (691, 52, 'Gürgentepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (692, 52, 'İkizce', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (693, 52, 'Kabataş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (694, 52, 'Karadüz(Kabadüz)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (695, 52, 'Korgan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (696, 52, 'Kumru', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (697, 52, 'Mesudiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (698, 52, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (699, 52, 'Perşembe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (700, 52, 'Ulubey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (701, 52, 'Ünye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (702, 53, 'Ardeşen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (703, 53, 'Çamlıhemşin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (704, 53, 'Çayeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (705, 53, 'Derepazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (706, 53, 'Fındıklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (707, 53, 'Güneysu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (708, 53, 'Hemşin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (709, 53, 'İkizdere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (710, 53, 'İyidere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (711, 53, 'Kalkandere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (712, 53, 'Pazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (713, 53, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (714, 54, 'Adapazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (715, 54, 'Akyazı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (716, 54, 'Arifiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (717, 54, 'Erenler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (718, 54, 'Ferizli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (719, 54, 'Geyve', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (720, 54, 'Hendek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (721, 54, 'Karapürçek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (722, 54, 'Karasu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (723, 54, 'Kaynarca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (724, 54, 'Kocaali', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (725, 54, 'Pamukova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (726, 54, 'Sapanca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (727, 54, 'Serdivan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (728, 54, 'Söğütlü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (729, 54, 'Taraklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (730, 55, '19 Mayıs(Ballıca)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (731, 55, 'Alaçam', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (732, 55, 'Asarcık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (733, 55, 'Atakum', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (734, 55, 'Ayvacık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (735, 55, 'Bafra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (736, 55, 'Canik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (737, 55, 'Çarşamba', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (738, 55, 'Havza', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (739, 55, 'İlkadım', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (740, 55, 'Kavak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (741, 55, 'Ladik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (742, 55, 'Salıpazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (743, 55, 'Tekkeköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (744, 55, 'Terme', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (745, 55, 'Vezirköprü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (746, 55, 'Yakakent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (747, 56, 'Aydınlar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (748, 56, 'Baykan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (749, 56, 'Eruh', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (750, 56, 'Kurtalan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (751, 56, 'Pervari', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (752, 56, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (753, 56, 'Şirvan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (754, 57, 'Ayancık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (755, 57, 'Boyabat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (756, 57, 'Dikmen', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (757, 57, 'Durağan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (758, 57, 'Erfelek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (759, 57, 'Gerze', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (760, 57, 'Saraydüzü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (761, 57, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (762, 57, 'Türkeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (763, 58, 'Akıncılar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (764, 58, 'Altınyayla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (765, 58, 'Divriği', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (766, 58, 'Doğanşar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (767, 58, 'Gemerek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (768, 58, 'Gölova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (769, 58, 'Gürün', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (770, 58, 'Hafik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (771, 58, 'İmranlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (772, 58, 'Kangal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (773, 58, 'Koyulhisar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (774, 58, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (775, 58, 'Suşehri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (776, 58, 'Şarkışla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (777, 58, 'Ulaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (778, 58, 'Yıldızeli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (779, 58, 'Zara', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (780, 59, 'Çerkezköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (781, 59, 'Çorlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (782, 59, 'Hayrabolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (783, 59, 'Malkara', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (784, 59, 'Marmaraereğlisi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (785, 59, 'Muratlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (786, 59, 'Saray', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (787, 59, 'Şarköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (788, 59, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (789, 60, 'Almus', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (790, 60, 'Artova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (791, 60, 'Başçiftlik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (792, 60, 'Erbaa', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (793, 60, 'Niksar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (794, 60, 'Pazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (795, 60, 'Reşadiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (796, 60, 'Sulusaray', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (797, 60, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (798, 60, 'Turhal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (799, 60, 'Yeşilyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (800, 60, 'Zile', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (801, 61, 'Akçaabat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (802, 61, 'Araklı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (803, 61, 'Arsin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (804, 61, 'Beşikdüzü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (805, 61, 'Çarşıbaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (806, 61, 'Çaykara', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (807, 61, 'Dernekpazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (808, 61, 'Düzköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (809, 61, 'Hayrat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (810, 61, 'Köprübaşı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (811, 61, 'Maçka', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (812, 61, 'Of', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (813, 61, 'Sürmene', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (814, 61, 'Şalpazarı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (815, 61, 'Tonya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (816, 61, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (817, 61, 'Vakfıkebir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (818, 61, 'Yomra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (819, 62, 'Çemişgezek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (820, 62, 'Hozat', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (821, 62, 'Mazgirt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (822, 62, 'Nazımiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (823, 62, 'Ovacık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (824, 62, 'Pertek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (825, 62, 'Pülümür', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (826, 62, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (827, 63, 'Akçakale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (828, 63, 'Birecik', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (829, 63, 'Bozova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (830, 63, 'Ceylanpınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (831, 63, 'Halfeti', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (832, 63, 'Harran', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (833, 63, 'Hilvan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (834, 63, 'Siverek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (835, 63, 'Suruç', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (836, 63, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (837, 63, 'Viranşehir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (838, 64, 'Banaz', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (839, 64, 'Eşme', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (840, 64, 'Karahallı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (841, 64, 'Sivaslı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (842, 64, 'Ulubey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (843, 64, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (844, 65, 'Bahçesaray', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (845, 65, 'Başkale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (846, 65, 'Çaldıran', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (847, 65, 'Çatak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (848, 65, 'Edremit(Gümüşdere)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (849, 65, 'Erciş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (850, 65, 'Gevaş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (851, 65, 'Gürpınar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (852, 65, 'Muradiye', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (853, 65, 'Özalp', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (854, 65, 'Saray', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (855, 65, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (856, 66, 'Akdağmadeni', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (857, 66, 'Aydıncık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (858, 66, 'Boğazlıyan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (859, 66, 'Çandır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (860, 66, 'Çayıralan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (861, 66, 'Çekerek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (862, 66, 'Kadışehri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (863, 66, 'Saraykent', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (864, 66, 'Sarıkaya', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (865, 66, 'Sorgun', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (866, 66, 'Şefaatli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (867, 66, 'Yenifakılı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (868, 66, 'Yerköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (869, 66, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (870, 67, 'Alaplı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (871, 67, 'Çaycuma', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (872, 67, 'Devrek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (873, 67, 'Gökçebey', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (874, 67, 'Karadenizereğli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (875, 67, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (876, 68, 'Ağaçören', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (877, 68, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (878, 68, 'Eskil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (879, 68, 'Gülağaç(Ağaçlı)', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (880, 68, 'Güzelyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (881, 68, 'Ortaköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (882, 68, 'Sarıyahşi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (883, 69, 'Aydıntepe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (884, 69, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (885, 69, 'Demirözü', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (886, 70, 'Ayrancı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (887, 70, 'Başyayla', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (888, 70, 'Ermenek', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (889, 70, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (890, 70, 'Kazımkarabekir', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (891, 70, 'Sarıveliler', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (892, 71, 'Bahşili', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (893, 71, 'Balışeyh', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (894, 71, 'Çelebi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (895, 71, 'Delice', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (896, 71, 'Karakeçili', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (897, 71, 'Keskin', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (898, 71, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (899, 71, 'Sulakyurt', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (900, 71, 'Yahşihan', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (901, 72, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (902, 72, 'Beşiri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (903, 72, 'Gercüş', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (904, 72, 'Hasankeyf', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (905, 72, 'Kozluk', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (906, 72, 'Sason', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (907, 73, 'Beytüşşebap', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (908, 73, 'Cizre', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (909, 73, 'Güçlükonak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (910, 73, 'İdil', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (911, 73, 'Silopi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (912, 73, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (913, 73, 'Uludere', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (914, 74, 'Amasra', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (915, 74, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (916, 74, 'Kurucaşile', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (917, 74, 'Ulus', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (918, 75, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (919, 75, 'Çıldır', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (920, 75, 'Damal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (921, 75, 'Göle', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (922, 75, 'Hanak', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (923, 75, 'Posof', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (924, 76, 'Aralık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (925, 76, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (926, 76, 'Karakoyunlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (927, 76, 'Tuzluca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (928, 77, 'Altınova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (929, 77, 'Armutlu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (930, 77, 'Çınarcık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (931, 77, 'Çiftlikköy', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (932, 77, 'Termal', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (933, 77, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (934, 78, 'Eflani', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (935, 78, 'Eskipazar', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (936, 78, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (937, 78, 'Ovacık', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (938, 78, 'Safranbolu', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (939, 78, 'Yenice', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (940, 79, 'Elbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (941, 79, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (942, 79, 'Musabeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (943, 79, 'Polateli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (944, 80, 'Bahçe', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (945, 80, 'Düziçi', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (946, 80, 'Hasanbeyli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (947, 80, 'Kadirli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (948, 80, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (949, 80, 'Sumbas', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (950, 80, 'Toprakkale', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (951, 81, 'Akçakoca', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (952, 81, 'Cumayeri', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (953, 81, 'Çilimli', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (954, 81, 'Merkez', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (955, 81, 'Gölyaka', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (956, 81, 'Gümüşova', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (957, 81, 'Kaynaşlı', null, null);
-INSERT INTO towns (id, city_id, name, created_at, updated_at) VALUES (958, 81, 'Yığılca', null, null);
+INSERT INTO towns (id, city_id, name, created_at, updated_at)
+VALUES (1, 1, 'Aladağ(Karsantı)', null, null),
+       (2, 1, 'Ceyhan', null, null),
+       (3, 1, 'Çukurova', null, null),
+       (4, 1, 'Feke', null, null),
+       (5, 1, 'İmamoğlu', null, null),
+       (6, 1, 'Karaisalı', null, null),
+       (7, 1, 'Karataş', null, null),
+       (8, 1, 'Kozan', null, null),
+       (9, 1, 'Pozantı', null, null),
+       (10, 1, 'Saimbeyli', null, null),
+       (11, 1, 'Sarıçam', null, null),
+       (12, 1, 'Seyhan', null, null),
+       (13, 1, 'Tufanbeyli', null, null),
+       (14, 1, 'Yumurtalık', null, null),
+       (15, 1, 'Yüreğir', null, null),
+       (16, 2, 'Merkez', null, null),
+       (17, 2, 'Besni', null, null),
+       (18, 2, 'Çelikhan', null, null),
+       (19, 2, 'Gerger', null, null),
+       (20, 2, 'Gölbaşı', null, null),
+       (21, 2, 'Kahta', null, null),
+       (22, 2, 'Samsat', null, null),
+       (23, 2, 'Sincik', null, null),
+       (24, 2, 'Tut', null, null),
+       (25, 3, 'Merkez', null, null),
+       (26, 3, 'Başmakçı', null, null),
+       (27, 3, 'Bayat', null, null),
+       (28, 3, 'Bolvadin', null, null),
+       (29, 3, 'Çay', null, null),
+       (30, 3, 'Çobanlar', null, null),
+       (31, 3, 'Dazkırı', null, null),
+       (32, 3, 'Dinar', null, null),
+       (33, 3, 'Emirdağ', null, null),
+       (34, 3, 'Evciler', null, null),
+       (35, 3, 'Hocalar', null, null),
+       (36, 3, 'İhsaniye', null, null),
+       (37, 3, 'İscehisar', null, null),
+       (38, 3, 'Kızılören', null, null),
+       (39, 3, 'Sandıklı', null, null),
+       (40, 3, 'Sincanlı(Sinanpaşa)', null, null),
+       (41, 3, 'Sultandağı', null, null),
+       (42, 3, 'Şuhut', null, null),
+       (43, 4, 'Merkez', null, null),
+       (44, 4, 'Diyadin', null, null),
+       (45, 4, 'Doğubeyazıt', null, null),
+       (46, 4, 'Eleşkirt', null, null),
+       (47, 4, 'Hamur', null, null),
+       (48, 4, 'Patnos', null, null),
+       (49, 4, 'Taşlıçay', null, null),
+       (50, 4, 'Tutak', null, null),
+       (51, 5, 'Merkez', null, null),
+       (52, 5, 'Göynücek', null, null),
+       (53, 5, 'Gümüşhacıköy', null, null),
+       (54, 5, 'Hamamözü', null, null),
+       (55, 5, 'Merzifon', null, null),
+       (56, 5, 'Suluova', null, null),
+       (57, 5, 'Taşova', null, null),
+       (58, 6, 'Akyurt', null, null),
+       (59, 6, 'Altındağ', null, null),
+       (60, 6, 'Ayaş', null, null),
+       (61, 6, 'Bala', null, null),
+       (62, 6, 'Beypazarı', null, null),
+       (63, 6, 'Çamlıdere', null, null),
+       (64, 6, 'Çankaya', null, null),
+       (65, 6, 'Çubuk', null, null),
+       (66, 6, 'Elmadağ', null, null),
+       (67, 6, 'Etimesgut', null, null),
+       (68, 6, 'Evren', null, null),
+       (69, 6, 'Gölbaşı', null, null),
+       (70, 6, 'Güdül', null, null),
+       (71, 6, 'Haymana', null, null),
+       (72, 6, 'Kalecik', null, null),
+       (73, 6, 'Kazan', null, null),
+       (74, 6, 'Keçiören', null, null),
+       (75, 6, 'Kızılcahamam', null, null),
+       (76, 6, 'Mamak', null, null),
+       (77, 6, 'Nallıhan', null, null),
+       (78, 6, 'Polatlı', null, null),
+       (79, 6, 'Pursaklar', null, null),
+       (80, 6, 'Sincan', null, null),
+       (81, 6, 'Şereflikoçhisar', null, null),
+       (82, 6, 'Yenimahalle', null, null),
+       (83, 7, 'Akseki', null, null),
+       (84, 7, 'Aksu', null, null),
+       (85, 7, 'Alanya', null, null),
+       (86, 7, 'Döşemealtı', null, null),
+       (87, 7, 'Elmalı', null, null),
+       (88, 7, 'Finike', null, null),
+       (89, 7, 'Gazipaşa', null, null),
+       (90, 7, 'Gündoğmuş', null, null),
+       (91, 7, 'İbradı(Aydınkent)', null, null),
+       (92, 7, 'Kale(Demre)', null, null),
+       (93, 7, 'Kaş', null, null),
+       (94, 7, 'Kemer', null, null),
+       (95, 7, 'Kepez', null, null),
+       (96, 7, 'Konyaaltı', null, null),
+       (97, 7, 'Korkuteli', null, null),
+       (98, 7, 'Kumluca', null, null),
+       (99, 7, 'Manavgat', null, null),
+       (100, 7, 'Muratpaşa', null, null),
+       (101, 7, 'Serik', null, null),
+       (102, 8, 'Ardanuç', null, null),
+       (103, 8, 'Arhavi', null, null),
+       (104, 8, 'Merkez', null, null),
+       (105, 8, 'Borçka', null, null),
+       (106, 8, 'Hopa', null, null),
+       (107, 8, 'Murgul(Göktaş)', null, null),
+       (108, 8, 'Şavşat', null, null),
+       (109, 8, 'Yusufeli', null, null),
+       (110, 9, 'Merkez', null, null),
+       (111, 9, 'Bozdoğan', null, null),
+       (112, 9, 'Buharkent(Çubukdağı)', null, null),
+       (113, 9, 'Çine', null, null),
+       (114, 9, 'Didim(Yenihisar)', null, null),
+       (115, 9, 'Germencik', null, null),
+       (116, 9, 'İncirliova', null, null),
+       (117, 9, 'Karacasu', null, null),
+       (118, 9, 'Karpuzlu', null, null),
+       (119, 9, 'Koçarlı', null, null),
+       (120, 9, 'Köşk', null, null),
+       (121, 9, 'Kuşadası', null, null),
+       (122, 9, 'Kuyucak', null, null),
+       (123, 9, 'Nazilli', null, null),
+       (124, 9, 'Söke', null, null),
+       (125, 9, 'Sultanhisar', null, null),
+       (126, 9, 'Yenipazar', null, null),
+       (127, 10, 'Ayvalık', null, null),
+       (128, 10, 'Merkez', null, null),
+       (129, 10, 'Balya', null, null),
+       (130, 10, 'Bandırma', null, null),
+       (131, 10, 'Bigadiç', null, null),
+       (132, 10, 'Burhaniye', null, null),
+       (133, 10, 'Dursunbey', null, null),
+       (134, 10, 'Edremit', null, null),
+       (135, 10, 'Erdek', null, null),
+       (136, 10, 'Gömeç', null, null),
+       (137, 10, 'Gönen', null, null),
+       (138, 10, 'Havran', null, null),
+       (139, 10, 'İvrindi', null, null),
+       (140, 10, 'Kepsut', null, null),
+       (141, 10, 'Manyas', null, null),
+       (142, 10, 'Marmara', null, null),
+       (143, 10, 'Savaştepe', null, null),
+       (144, 10, 'Sındırgı', null, null),
+       (145, 10, 'Susurluk', null, null),
+       (146, 11, 'Merkez', null, null),
+       (147, 11, 'Bozüyük', null, null),
+       (148, 11, 'Gölpazarı', null, null),
+       (149, 11, 'İnhisar', null, null),
+       (150, 11, 'Osmaneli', null, null),
+       (151, 11, 'Pazaryeri', null, null),
+       (152, 11, 'Söğüt', null, null),
+       (153, 11, 'Yenipazar', null, null),
+       (154, 12, 'Adaklı', null, null),
+       (155, 12, 'Merkez', null, null),
+       (156, 12, 'Genç', null, null),
+       (157, 12, 'Karlıova', null, null),
+       (158, 12, 'Kığı', null, null),
+       (159, 12, 'Solhan', null, null),
+       (160, 12, 'Yayladere', null, null),
+       (161, 12, 'Yedisu', null, null),
+       (162, 13, 'Adilcevaz', null, null),
+       (163, 13, 'Ahlat', null, null),
+       (164, 13, 'Merkez', null, null),
+       (165, 13, 'Güroymak', null, null),
+       (166, 13, 'Hizan', null, null),
+       (167, 13, 'Mutki', null, null),
+       (168, 13, 'Tatvan', null, null),
+       (169, 14, 'Merkez', null, null),
+       (170, 14, 'Dörtdivan', null, null),
+       (171, 14, 'Gerede', null, null),
+       (172, 14, 'Göynük', null, null),
+       (173, 14, 'Kıbrıscık', null, null),
+       (174, 14, 'Mengen', null, null),
+       (175, 14, 'Mudurnu', null, null),
+       (176, 14, 'Seben', null, null),
+       (177, 14, 'Yeniçağa', null, null),
+       (178, 15, 'Ağlasun', null, null),
+       (179, 15, 'Altınyayla(Dirmil)', null, null),
+       (180, 15, 'Bucak', null, null),
+       (181, 15, 'Merkez', null, null),
+       (182, 15, 'Çavdır', null, null),
+       (183, 15, 'Çeltikçi', null, null),
+       (184, 15, 'Gölhisar', null, null),
+       (185, 15, 'Karamanlı', null, null),
+       (186, 15, 'Kemer', null, null),
+       (187, 15, 'Tefenni', null, null),
+       (188, 15, 'Yeşilova', null, null),
+       (189, 16, 'Büyükorhan', null, null),
+       (190, 16, 'Gemlik', null, null),
+       (191, 16, 'Gürsu', null, null),
+       (192, 16, 'Harmancık', null, null),
+       (193, 16, 'İnegöl', null, null),
+       (194, 16, 'İznik', null, null),
+       (195, 16, 'Karacabey', null, null),
+       (196, 16, 'Keles', null, null),
+       (197, 16, 'Kestel', null, null),
+       (198, 16, 'Mudanya', null, null),
+       (199, 16, 'Mustafakemalpaşa', null, null),
+       (200, 16, 'Nilüfer', null, null),
+       (201, 16, 'Orhaneli', null, null),
+       (202, 16, 'Orhangazi', null, null),
+       (203, 16, 'Osmangazi', null, null),
+       (204, 16, 'Yenişehir', null, null),
+       (205, 16, 'Yıldırım', null, null),
+       (206, 17, 'Ayvacık', null, null),
+       (207, 17, 'Bayramiç', null, null),
+       (208, 17, 'Biga', null, null),
+       (209, 17, 'Bozcaada', null, null),
+       (210, 17, 'Çan', null, null),
+       (211, 17, 'Merkez', null, null),
+       (212, 17, 'Eceabat', null, null),
+       (213, 17, 'Ezine', null, null),
+       (214, 17, 'Gelibolu', null, null),
+       (215, 17, 'Gökçeada(İmroz)', null, null),
+       (216, 17, 'Lapseki', null, null),
+       (217, 17, 'Yenice', null, null),
+       (218, 18, 'Atkaracalar', null, null),
+       (219, 18, 'Bayramören', null, null),
+       (220, 18, 'Merkez', null, null),
+       (221, 18, 'Çerkeş', null, null),
+       (222, 18, 'Eldivan', null, null),
+       (223, 18, 'Ilgaz', null, null),
+       (224, 18, 'Kızılırmak', null, null),
+       (225, 18, 'Korgun', null, null),
+       (226, 18, 'Kurşunlu', null, null),
+       (227, 18, 'Orta', null, null),
+       (228, 18, 'Şabanözü', null, null),
+       (229, 18, 'Yapraklı', null, null),
+       (230, 19, 'Alaca', null, null),
+       (231, 19, 'Bayat', null, null),
+       (232, 19, 'Boğazkale', null, null),
+       (233, 19, 'Merkez', null, null),
+       (234, 19, 'Dodurga', null, null),
+       (235, 19, 'İskilip', null, null),
+       (236, 19, 'Kargı', null, null),
+       (237, 19, 'Laçin', null, null),
+       (238, 19, 'Mecitözü', null, null),
+       (239, 19, 'Oğuzlar(Karaören)', null, null),
+       (240, 19, 'Ortaköy', null, null),
+       (241, 19, 'Osmancık', null, null),
+       (242, 19, 'Sungurlu', null, null),
+       (243, 19, 'Uğurludağ', null, null),
+       (244, 20, 'Acıpayam', null, null),
+       (245, 20, 'Akköy', null, null),
+       (246, 20, 'Babadağ', null, null),
+       (247, 20, 'Baklan', null, null),
+       (248, 20, 'Bekilli', null, null),
+       (249, 20, 'Beyağaç', null, null),
+       (250, 20, 'Bozkurt', null, null),
+       (251, 20, 'Buldan', null, null),
+       (252, 20, 'Çal', null, null),
+       (253, 20, 'Çameli', null, null),
+       (254, 20, 'Çardak', null, null),
+       (255, 20, 'Çivril', null, null),
+       (256, 20, 'Merkez', null, null),
+       (257, 20, 'Güney', null, null),
+       (258, 20, 'Honaz', null, null),
+       (259, 20, 'Kale', null, null),
+       (260, 20, 'Sarayköy', null, null),
+       (261, 20, 'Serinhisar', null, null),
+       (262, 20, 'Tavas', null, null),
+       (263, 21, 'Bağlar', null, null),
+       (264, 21, 'Bismil', null, null),
+       (265, 21, 'Çermik', null, null),
+       (266, 21, 'Çınar', null, null),
+       (267, 21, 'Çüngüş', null, null),
+       (268, 21, 'Dicle', null, null),
+       (269, 21, 'Eğil', null, null),
+       (270, 21, 'Ergani', null, null),
+       (271, 21, 'Hani', null, null),
+       (272, 21, 'Hazro', null, null),
+       (273, 21, 'Kayapınar', null, null),
+       (274, 21, 'Kocaköy', null, null),
+       (275, 21, 'Kulp', null, null),
+       (276, 21, 'Lice', null, null),
+       (277, 21, 'Silvan', null, null),
+       (278, 21, 'Sur', null, null),
+       (279, 21, 'Yenişehir', null, null),
+       (280, 22, 'Merkez', null, null),
+       (281, 22, 'Enez', null, null),
+       (282, 22, 'Havsa', null, null),
+       (283, 22, 'İpsala', null, null),
+       (284, 22, 'Keşan', null, null),
+       (285, 22, 'Lalapaşa', null, null),
+       (286, 22, 'Meriç', null, null),
+       (287, 22, 'Süleoğlu(Süloğlu)', null, null),
+       (288, 22, 'Uzunköprü', null, null),
+       (289, 23, 'Ağın', null, null),
+       (290, 23, 'Alacakaya', null, null),
+       (291, 23, 'Arıcak', null, null),
+       (292, 23, 'Baskil', null, null),
+       (293, 23, 'Merkez', null, null),
+       (294, 23, 'Karakoçan', null, null),
+       (295, 23, 'Keban', null, null),
+       (296, 23, 'Kovancılar', null, null),
+       (297, 23, 'Maden', null, null),
+       (298, 23, 'Palu', null, null),
+       (299, 23, 'Sivrice', null, null),
+       (300, 24, 'Çayırlı', null, null),
+       (301, 24, 'Merkez', null, null),
+       (302, 24, 'İliç(Ilıç)', null, null),
+       (303, 24, 'Kemah', null, null),
+       (304, 24, 'Kemaliye', null, null),
+       (305, 24, 'Otlukbeli', null, null),
+       (306, 24, 'Refahiye', null, null),
+       (307, 24, 'Tercan', null, null),
+       (308, 24, 'Üzümlü', null, null),
+       (309, 25, 'Aşkale', null, null),
+       (310, 25, 'Aziziye(Ilıca)', null, null),
+       (311, 25, 'Çat', null, null),
+       (312, 25, 'Hınıs', null, null),
+       (313, 25, 'Horasan', null, null),
+       (314, 25, 'İspir', null, null),
+       (315, 25, 'Karaçoban', null, null),
+       (316, 25, 'Karayazı', null, null),
+       (317, 25, 'Köprüköy', null, null),
+       (318, 25, 'Narman', null, null),
+       (319, 25, 'Oltu', null, null),
+       (320, 25, 'Olur', null, null),
+       (321, 25, 'Palandöken', null, null),
+       (322, 25, 'Pasinler', null, null),
+       (323, 25, 'Pazaryolu', null, null),
+       (324, 25, 'Şenkaya', null, null),
+       (325, 25, 'Tekman', null, null),
+       (326, 25, 'Tortum', null, null),
+       (327, 25, 'Uzundere', null, null),
+       (328, 25, 'Yakutiye', null, null),
+       (329, 26, 'Alpu', null, null),
+       (330, 26, 'Beylikova', null, null),
+       (331, 26, 'Çifteler', null, null),
+       (332, 26, 'Günyüzü', null, null),
+       (333, 26, 'Han', null, null),
+       (334, 26, 'İnönü', null, null),
+       (335, 26, 'Mahmudiye', null, null),
+       (336, 26, 'Mihalgazi', null, null),
+       (337, 26, 'Mihalıçcık', null, null),
+       (338, 26, 'Odunpazarı', null, null),
+       (339, 26, 'Sarıcakaya', null, null),
+       (340, 26, 'Seyitgazi', null, null),
+       (341, 26, 'Sivrihisar', null, null),
+       (342, 26, 'Tepebaşı', null, null),
+       (343, 27, 'Araban', null, null),
+       (344, 27, 'İslahiye', null, null),
+       (345, 27, 'Karkamış', null, null),
+       (346, 27, 'Nizip', null, null),
+       (347, 27, 'Nurdağı', null, null),
+       (348, 27, 'Oğuzeli', null, null),
+       (349, 27, 'Şahinbey', null, null),
+       (350, 27, 'Şehitkamil', null, null),
+       (351, 27, 'Yavuzeli', null, null),
+       (352, 28, 'Alucra', null, null),
+       (353, 28, 'Bulancak', null, null),
+       (354, 28, 'Çamoluk', null, null),
+       (355, 28, 'Çanakçı', null, null),
+       (356, 28, 'Dereli', null, null),
+       (357, 28, 'Doğankent', null, null),
+       (358, 28, 'Espiye', null, null),
+       (359, 28, 'Eynesil', null, null),
+       (360, 28, 'Merkez', null, null),
+       (361, 28, 'Görele', null, null),
+       (362, 28, 'Güce', null, null),
+       (363, 28, 'Keşap', null, null),
+       (364, 28, 'Piraziz', null, null),
+       (365, 28, 'Şebinkarahisar', null, null),
+       (366, 28, 'Tirebolu', null, null),
+       (367, 28, 'Yağlıdere', null, null),
+       (368, 29, 'Merkez', null, null),
+       (369, 29, 'Kelkit', null, null),
+       (370, 29, 'Köse', null, null),
+       (371, 29, 'Kürtün', null, null),
+       (372, 29, 'Şiran', null, null),
+       (373, 29, 'Torul', null, null),
+       (374, 30, 'Çukurca', null, null),
+       (375, 30, 'Merkez', null, null),
+       (376, 30, 'Şemdinli', null, null),
+       (377, 30, 'Yüksekova', null, null),
+       (378, 31, 'Altınözü', null, null),
+       (379, 31, 'Antakya', null, null),
+       (380, 31, 'Belen', null, null),
+       (381, 31, 'Dörtyol', null, null),
+       (382, 31, 'Erzin', null, null),
+       (383, 31, 'Hassa', null, null),
+       (384, 31, 'İskenderun', null, null),
+       (385, 31, 'Kırıkhan', null, null),
+       (386, 31, 'Kumlu', null, null),
+       (387, 31, 'Reyhanlı', null, null),
+       (388, 31, 'Samandağ', null, null),
+       (389, 31, 'Yayladağı', null, null),
+       (390, 32, 'Aksu', null, null),
+       (391, 32, 'Atabey', null, null),
+       (392, 32, 'Eğridir(Eğirdir)', null, null),
+       (393, 32, 'Gelendost', null, null),
+       (394, 32, 'Gönen', null, null),
+       (395, 32, 'Merkez', null, null),
+       (396, 32, 'Keçiborlu', null, null),
+       (397, 32, 'Senirkent', null, null),
+       (398, 32, 'Sütçüler', null, null),
+       (399, 32, 'Şarkikaraağaç', null, null),
+       (400, 32, 'Uluborlu', null, null),
+       (401, 32, 'Yalvaç', null, null),
+       (402, 32, 'Yenişarbademli', null, null),
+       (403, 33, 'Akdeniz', null, null),
+       (404, 33, 'Anamur', null, null),
+       (405, 33, 'Aydıncık', null, null),
+       (406, 33, 'Bozyazı', null, null),
+       (407, 33, 'Çamlıyayla', null, null),
+       (408, 33, 'Erdemli', null, null),
+       (409, 33, 'Gülnar (Gülpınar)', null, null),
+       (410, 33, 'Mezitli', null, null),
+       (411, 33, 'Mut', null, null),
+       (412, 33, 'Silifke', null, null),
+       (413, 33, 'Tarsus', null, null),
+       (414, 33, 'Toroslar', null, null),
+       (415, 33, 'Yenişehir', null, null),
+       (416, 34, 'Adalar', null, null),
+       (417, 34, 'Arnavutköy', null, null),
+       (418, 34, 'Ataşehir', null, null),
+       (419, 34, 'Avcılar', null, null),
+       (420, 34, 'Bağcılar', null, null),
+       (421, 34, 'Bahçelievler', null, null),
+       (422, 34, 'Bakırköy', null, null),
+       (423, 34, 'Başakşehir', null, null),
+       (424, 34, 'Bayrampaşa', null, null),
+       (425, 34, 'Beşiktaş', null, null),
+       (426, 34, 'Beykoz', null, null),
+       (427, 34, 'Beylikdüzü', null, null),
+       (428, 34, 'Beyoğlu', null, null),
+       (429, 34, 'Büyükçekmece', null, null),
+       (430, 34, 'Çatalca', null, null),
+       (431, 34, 'Çekmeköy', null, null),
+       (432, 34, 'Esenler', null, null),
+       (433, 34, 'Esenyurt', null, null),
+       (434, 34, 'Eyüp', null, null),
+       (435, 34, 'Fatih', null, null),
+       (436, 34, 'Gaziosmanpaşa', null, null),
+       (437, 34, 'Güngören', null, null),
+       (438, 34, 'Kadıköy', null, null),
+       (439, 34, 'Kağıthane', null, null),
+       (440, 34, 'Kartal', null, null),
+       (441, 34, 'Küçükçekmece', null, null),
+       (442, 34, 'Maltepe', null, null),
+       (443, 34, 'Pendik', null, null),
+       (444, 34, 'Sancaktepe', null, null),
+       (445, 34, 'Sarıyer', null, null),
+       (446, 34, 'Silivri', null, null),
+       (447, 34, 'Sultanbeyli', null, null),
+       (448, 34, 'Sultangazi', null, null),
+       (449, 34, 'Şile', null, null),
+       (450, 34, 'Şişli', null, null),
+       (451, 34, 'Tuzla', null, null),
+       (452, 34, 'Ümraniye', null, null),
+       (453, 34, 'Üsküdar', null, null),
+       (454, 34, 'Zeytinburnu', null, null),
+       (455, 35, 'Aliağa', null, null),
+       (456, 35, 'Balçova', null, null),
+       (457, 35, 'Bayındır', null, null),
+       (458, 35, 'Bayraklı', null, null),
+       (459, 35, 'Bergama', null, null),
+       (460, 35, 'Beydağ', null, null),
+       (461, 35, 'Bornova', null, null),
+       (462, 35, 'Buca', null, null),
+       (463, 35, 'Cumaovası(Menderes)', null, null),
+       (464, 35, 'Çeşme', null, null),
+       (465, 35, 'Çiğli', null, null),
+       (466, 35, 'Dikili', null, null),
+       (467, 35, 'Foça', null, null),
+       (468, 35, 'Gaziemir', null, null),
+       (469, 35, 'Güzelbahçe', null, null),
+       (470, 35, 'Karabağlar', null, null),
+       (471, 35, 'Karaburun', null, null),
+       (472, 35, 'Karşıyaka', null, null),
+       (473, 35, 'Kemalpaşa', null, null),
+       (474, 35, 'Kınık', null, null),
+       (475, 35, 'Kiraz', null, null),
+       (476, 35, 'Konak', null, null),
+       (477, 35, 'Menemen', null, null),
+       (478, 35, 'Narlıdere', null, null),
+       (479, 35, 'Ödemiş', null, null),
+       (480, 35, 'Seferihisar', null, null),
+       (481, 35, 'Selçuk', null, null),
+       (482, 35, 'Tire', null, null),
+       (483, 35, 'Torbalı', null, null),
+       (484, 35, 'Urla', null, null),
+       (485, 36, 'Akyaka', null, null),
+       (486, 36, 'Arpaçay', null, null),
+       (487, 36, 'Digor', null, null),
+       (488, 36, 'Kağızman', null, null),
+       (489, 36, 'Merkez', null, null),
+       (490, 36, 'Sarıkamış', null, null),
+       (491, 36, 'Selim', null, null),
+       (492, 36, 'Susuz', null, null),
+       (493, 37, 'Abana', null, null),
+       (494, 37, 'Ağlı', null, null),
+       (495, 37, 'Araç', null, null),
+       (496, 37, 'Azdavay', null, null),
+       (497, 37, 'Bozkurt', null, null),
+       (498, 37, 'Cide', null, null),
+       (499, 37, 'Çatalzeytin', null, null),
+       (500, 37, 'Daday', null, null),
+       (501, 37, 'Devrekani', null, null),
+       (502, 37, 'Doğanyurt', null, null),
+       (503, 37, 'Hanönü(Gökçeağaç)', null, null),
+       (504, 37, 'İhsangazi', null, null),
+       (505, 37, 'İnebolu', null, null),
+       (506, 37, 'Merkez', null, null),
+       (507, 37, 'Küre', null, null),
+       (508, 37, 'Pınarbaşı', null, null),
+       (509, 37, 'Seydiler', null, null),
+       (510, 37, 'Şenpazar', null, null),
+       (511, 37, 'Taşköprü', null, null),
+       (512, 37, 'Tosya', null, null),
+       (513, 38, 'Akkışla', null, null),
+       (514, 38, 'Bünyan', null, null),
+       (515, 38, 'Develi', null, null),
+       (516, 38, 'Felahiye', null, null),
+       (517, 38, 'Hacılar', null, null),
+       (518, 38, 'İncesu', null, null),
+       (519, 38, 'Kocasinan', null, null),
+       (520, 38, 'Melikgazi', null, null),
+       (521, 38, 'Özvatan(Çukur)', null, null),
+       (522, 38, 'Pınarbaşı', null, null),
+       (523, 38, 'Sarıoğlan', null, null),
+       (524, 38, 'Sarız', null, null),
+       (525, 38, 'Talas', null, null),
+       (526, 38, 'Tomarza', null, null),
+       (527, 38, 'Yahyalı', null, null),
+       (528, 38, 'Yeşilhisar', null, null),
+       (529, 39, 'Babaeski', null, null),
+       (530, 39, 'Demirköy', null, null),
+       (531, 39, 'Merkez', null, null),
+       (532, 39, 'Kofçaz', null, null),
+       (533, 39, 'Lüleburgaz', null, null),
+       (534, 39, 'Pehlivanköy', null, null),
+       (535, 39, 'Pınarhisar', null, null),
+       (536, 39, 'Vize', null, null),
+       (537, 40, 'Akçakent', null, null),
+       (538, 40, 'Akpınar', null, null),
+       (539, 40, 'Boztepe', null, null),
+       (540, 40, 'Çiçekdağı', null, null),
+       (541, 40, 'Kaman', null, null),
+       (542, 40, 'Merkez', null, null),
+       (543, 40, 'Mucur', null, null),
+       (544, 41, 'Başiskele', null, null),
+       (545, 41, 'Çayırova', null, null),
+       (546, 41, 'Darıca', null, null),
+       (547, 41, 'Derince', null, null),
+       (548, 41, 'Dilovası', null, null),
+       (549, 41, 'Gebze', null, null),
+       (550, 41, 'Gölcük', null, null),
+       (551, 41, 'Merkez', null, null),
+       (552, 41, 'Kandıra', null, null),
+       (553, 41, 'Karamürsel', null, null),
+       (554, 41, 'Kartepe', null, null),
+       (555, 41, 'Tütünçiftlik', null, null),
+       (556, 42, 'Ahırlı', null, null),
+       (557, 42, 'Akören', null, null),
+       (558, 42, 'Akşehir', null, null),
+       (559, 42, 'Altınekin', null, null),
+       (560, 42, 'Beyşehir', null, null),
+       (561, 42, 'Bozkır', null, null),
+       (562, 42, 'Cihanbeyli', null, null),
+       (563, 42, 'Çeltik', null, null),
+       (564, 42, 'Çumra', null, null),
+       (565, 42, 'Derbent', null, null),
+       (566, 42, 'Derebucak', null, null),
+       (567, 42, 'Doğanhisar', null, null),
+       (568, 42, 'Emirgazi', null, null),
+       (569, 42, 'Ereğli', null, null),
+       (570, 42, 'Güneysınır', null, null),
+       (571, 42, 'Hadim', null, null),
+       (572, 42, 'Halkapınar', null, null),
+       (573, 42, 'Hüyük', null, null),
+       (574, 42, 'Ilgın', null, null),
+       (575, 42, 'Kadınhanı', null, null),
+       (576, 42, 'Karapınar', null, null),
+       (577, 42, 'Karatay', null, null),
+       (578, 42, 'Kulu', null, null),
+       (579, 42, 'Meram', null, null),
+       (580, 42, 'Sarayönü', null, null),
+       (581, 42, 'Selçuklu', null, null),
+       (582, 42, 'Seydişehir', null, null),
+       (583, 42, 'Taşkent', null, null),
+       (584, 42, 'Tuzlukçu', null, null),
+       (585, 42, 'Yalıhüyük', null, null),
+       (586, 42, 'Yunak', null, null),
+       (587, 43, 'Altıntaş', null, null),
+       (588, 43, 'Aslanapa', null, null),
+       (589, 43, 'Çavdarhisar', null, null),
+       (590, 43, 'Domaniç', null, null),
+       (591, 43, 'Dumlupınar', null, null),
+       (592, 43, 'Emet', null, null),
+       (593, 43, 'Gediz', null, null),
+       (594, 43, 'Hisarcık', null, null),
+       (595, 43, 'Merkez', null, null),
+       (596, 43, 'Pazarlar', null, null),
+       (597, 43, 'Simav', null, null),
+       (598, 43, 'Şaphane', null, null),
+       (599, 43, 'Tavşanlı', null, null),
+       (600, 43, 'Tunçbilek', null, null),
+       (601, 44, 'Akçadağ', null, null),
+       (602, 44, 'Arapkir', null, null),
+       (603, 44, 'Arguvan', null, null),
+       (604, 44, 'Battalgazi', null, null),
+       (605, 44, 'Darende', null, null),
+       (606, 44, 'Doğanşehir', null, null),
+       (607, 44, 'Doğanyol', null, null),
+       (608, 44, 'Hekimhan', null, null),
+       (609, 44, 'Kale', null, null),
+       (610, 44, 'Kuluncak', null, null),
+       (611, 44, 'Merkez', null, null),
+       (612, 44, 'Pötürge', null, null),
+       (613, 44, 'Yazıhan', null, null),
+       (614, 44, 'Yeşilyurt', null, null),
+       (615, 45, 'Ahmetli', null, null),
+       (616, 45, 'Akhisar', null, null),
+       (617, 45, 'Alaşehir', null, null),
+       (618, 45, 'Demirci', null, null),
+       (619, 45, 'Gölmarmara', null, null),
+       (620, 45, 'Gördes', null, null),
+       (621, 45, 'Kırkağaç', null, null),
+       (622, 45, 'Köprübaşı', null, null),
+       (623, 45, 'Kula', null, null),
+       (624, 45, 'Merkez', null, null),
+       (625, 45, 'Salihli', null, null),
+       (626, 45, 'Sarıgöl', null, null),
+       (627, 45, 'Saruhanlı', null, null),
+       (628, 45, 'Selendi', null, null),
+       (629, 45, 'Soma', null, null),
+       (630, 45, 'Turgutlu', null, null),
+       (631, 46, 'Afşin', null, null),
+       (632, 46, 'Andırın', null, null),
+       (633, 46, 'Çağlayancerit', null, null),
+       (634, 46, 'Ekinözü', null, null),
+       (635, 46, 'Elbistan', null, null),
+       (636, 46, 'Göksun', null, null),
+       (637, 46, 'Merkez', null, null),
+       (638, 46, 'Nurhak', null, null),
+       (639, 46, 'Pazarcık', null, null),
+       (640, 46, 'Türkoğlu', null, null),
+       (641, 47, 'Dargeçit', null, null),
+       (642, 47, 'Derik', null, null),
+       (643, 47, 'Kızıltepe', null, null),
+       (644, 47, 'Merkez', null, null),
+       (645, 47, 'Mazıdağı', null, null),
+       (646, 47, 'Midyat(Estel)', null, null),
+       (647, 47, 'Nusaybin', null, null),
+       (648, 47, 'Ömerli', null, null),
+       (649, 47, 'Savur', null, null),
+       (650, 47, 'Yeşilli', null, null),
+       (651, 48, 'Bodrum', null, null),
+       (652, 48, 'Dalaman', null, null),
+       (653, 48, 'Datça', null, null),
+       (654, 48, 'Fethiye', null, null),
+       (655, 48, 'Kavaklıdere', null, null),
+       (656, 48, 'Köyceğiz', null, null),
+       (657, 48, 'Marmaris', null, null),
+       (658, 48, 'Milas', null, null),
+       (659, 48, 'Merkez', null, null),
+       (660, 48, 'Ortaca', null, null),
+       (661, 48, 'Ula', null, null),
+       (662, 48, 'Yatağan', null, null),
+       (663, 49, 'Bulanık', null, null),
+       (664, 49, 'Hasköy', null, null),
+       (665, 49, 'Korkut', null, null),
+       (666, 49, 'Malazgirt', null, null),
+       (667, 49, 'Merkez', null, null),
+       (668, 49, 'Varto', null, null),
+       (669, 50, 'Acıgöl', null, null),
+       (670, 50, 'Avanos', null, null),
+       (671, 50, 'Derinkuyu', null, null),
+       (672, 50, 'Gülşehir', null, null),
+       (673, 50, 'Hacıbektaş', null, null),
+       (674, 50, 'Kozaklı', null, null),
+       (675, 50, 'Merkez', null, null),
+       (676, 50, 'Ürgüp', null, null),
+       (677, 51, 'Altunhisar', null, null),
+       (678, 51, 'Bor', null, null),
+       (679, 51, 'Çamardı', null, null),
+       (680, 51, 'Çiftlik(Özyurt)', null, null),
+       (681, 51, 'Merkez', null, null),
+       (682, 51, 'Ulukışla', null, null),
+       (683, 52, 'Akkuş', null, null),
+       (684, 52, 'Aybastı', null, null),
+       (685, 52, 'Çamaş', null, null),
+       (686, 52, 'Çatalpınar', null, null),
+       (687, 52, 'Çaybaşı', null, null),
+       (688, 52, 'Fatsa', null, null),
+       (689, 52, 'Gölköy', null, null),
+       (690, 52, 'Gülyalı', null, null),
+       (691, 52, 'Gürgentepe', null, null),
+       (692, 52, 'İkizce', null, null),
+       (693, 52, 'Kabataş', null, null),
+       (694, 52, 'Karadüz(Kabadüz)', null, null),
+       (695, 52, 'Korgan', null, null),
+       (696, 52, 'Kumru', null, null),
+       (697, 52, 'Mesudiye', null, null),
+       (698, 52, 'Merkez', null, null),
+       (699, 52, 'Perşembe', null, null),
+       (700, 52, 'Ulubey', null, null),
+       (701, 52, 'Ünye', null, null),
+       (702, 53, 'Ardeşen', null, null),
+       (703, 53, 'Çamlıhemşin', null, null),
+       (704, 53, 'Çayeli', null, null),
+       (705, 53, 'Derepazarı', null, null),
+       (706, 53, 'Fındıklı', null, null),
+       (707, 53, 'Güneysu', null, null),
+       (708, 53, 'Hemşin', null, null),
+       (709, 53, 'İkizdere', null, null),
+       (710, 53, 'İyidere', null, null),
+       (711, 53, 'Kalkandere', null, null),
+       (712, 53, 'Pazar', null, null),
+       (713, 53, 'Merkez', null, null),
+       (714, 54, 'Adapazarı', null, null),
+       (715, 54, 'Akyazı', null, null),
+       (716, 54, 'Arifiye', null, null),
+       (717, 54, 'Erenler', null, null),
+       (718, 54, 'Ferizli', null, null),
+       (719, 54, 'Geyve', null, null),
+       (720, 54, 'Hendek', null, null),
+       (721, 54, 'Karapürçek', null, null),
+       (722, 54, 'Karasu', null, null),
+       (723, 54, 'Kaynarca', null, null),
+       (724, 54, 'Kocaali', null, null),
+       (725, 54, 'Pamukova', null, null),
+       (726, 54, 'Sapanca', null, null),
+       (727, 54, 'Serdivan', null, null),
+       (728, 54, 'Söğütlü', null, null),
+       (729, 54, 'Taraklı', null, null),
+       (730, 55, '19 Mayıs(Ballıca)', null, null),
+       (731, 55, 'Alaçam', null, null),
+       (732, 55, 'Asarcık', null, null),
+       (733, 55, 'Atakum', null, null),
+       (734, 55, 'Ayvacık', null, null),
+       (735, 55, 'Bafra', null, null),
+       (736, 55, 'Canik', null, null),
+       (737, 55, 'Çarşamba', null, null),
+       (738, 55, 'Havza', null, null),
+       (739, 55, 'İlkadım', null, null),
+       (740, 55, 'Kavak', null, null),
+       (741, 55, 'Ladik', null, null),
+       (742, 55, 'Salıpazarı', null, null),
+       (743, 55, 'Tekkeköy', null, null),
+       (744, 55, 'Terme', null, null),
+       (745, 55, 'Vezirköprü', null, null),
+       (746, 55, 'Yakakent', null, null),
+       (747, 56, 'Aydınlar', null, null),
+       (748, 56, 'Baykan', null, null),
+       (749, 56, 'Eruh', null, null),
+       (750, 56, 'Kurtalan', null, null),
+       (751, 56, 'Pervari', null, null),
+       (752, 56, 'Merkez', null, null),
+       (753, 56, 'Şirvan', null, null),
+       (754, 57, 'Ayancık', null, null),
+       (755, 57, 'Boyabat', null, null),
+       (756, 57, 'Dikmen', null, null),
+       (757, 57, 'Durağan', null, null),
+       (758, 57, 'Erfelek', null, null),
+       (759, 57, 'Gerze', null, null),
+       (760, 57, 'Saraydüzü', null, null),
+       (761, 57, 'Merkez', null, null),
+       (762, 57, 'Türkeli', null, null),
+       (763, 58, 'Akıncılar', null, null),
+       (764, 58, 'Altınyayla', null, null),
+       (765, 58, 'Divriği', null, null),
+       (766, 58, 'Doğanşar', null, null),
+       (767, 58, 'Gemerek', null, null),
+       (768, 58, 'Gölova', null, null),
+       (769, 58, 'Gürün', null, null),
+       (770, 58, 'Hafik', null, null),
+       (771, 58, 'İmranlı', null, null),
+       (772, 58, 'Kangal', null, null),
+       (773, 58, 'Koyulhisar', null, null),
+       (774, 58, 'Merkez', null, null),
+       (775, 58, 'Suşehri', null, null),
+       (776, 58, 'Şarkışla', null, null),
+       (777, 58, 'Ulaş', null, null),
+       (778, 58, 'Yıldızeli', null, null),
+       (779, 58, 'Zara', null, null),
+       (780, 59, 'Çerkezköy', null, null),
+       (781, 59, 'Çorlu', null, null),
+       (782, 59, 'Hayrabolu', null, null),
+       (783, 59, 'Malkara', null, null),
+       (784, 59, 'Marmaraereğlisi', null, null),
+       (785, 59, 'Muratlı', null, null),
+       (786, 59, 'Saray', null, null),
+       (787, 59, 'Şarköy', null, null),
+       (788, 59, 'Merkez', null, null),
+       (789, 60, 'Almus', null, null),
+       (790, 60, 'Artova', null, null),
+       (791, 60, 'Başçiftlik', null, null),
+       (792, 60, 'Erbaa', null, null),
+       (793, 60, 'Niksar', null, null),
+       (794, 60, 'Pazar', null, null),
+       (795, 60, 'Reşadiye', null, null),
+       (796, 60, 'Sulusaray', null, null),
+       (797, 60, 'Merkez', null, null),
+       (798, 60, 'Turhal', null, null),
+       (799, 60, 'Yeşilyurt', null, null),
+       (800, 60, 'Zile', null, null),
+       (801, 61, 'Akçaabat', null, null),
+       (802, 61, 'Araklı', null, null),
+       (803, 61, 'Arsin', null, null),
+       (804, 61, 'Beşikdüzü', null, null),
+       (805, 61, 'Çarşıbaşı', null, null),
+       (806, 61, 'Çaykara', null, null),
+       (807, 61, 'Dernekpazarı', null, null),
+       (808, 61, 'Düzköy', null, null),
+       (809, 61, 'Hayrat', null, null),
+       (810, 61, 'Köprübaşı', null, null),
+       (811, 61, 'Maçka', null, null),
+       (812, 61, 'Of', null, null),
+       (813, 61, 'Sürmene', null, null),
+       (814, 61, 'Şalpazarı', null, null),
+       (815, 61, 'Tonya', null, null),
+       (816, 61, 'Merkez', null, null),
+       (817, 61, 'Vakfıkebir', null, null),
+       (818, 61, 'Yomra', null, null),
+       (819, 62, 'Çemişgezek', null, null),
+       (820, 62, 'Hozat', null, null),
+       (821, 62, 'Mazgirt', null, null),
+       (822, 62, 'Nazımiye', null, null),
+       (823, 62, 'Ovacık', null, null),
+       (824, 62, 'Pertek', null, null),
+       (825, 62, 'Pülümür', null, null),
+       (826, 62, 'Merkez', null, null),
+       (827, 63, 'Akçakale', null, null),
+       (828, 63, 'Birecik', null, null),
+       (829, 63, 'Bozova', null, null),
+       (830, 63, 'Ceylanpınar', null, null),
+       (831, 63, 'Halfeti', null, null),
+       (832, 63, 'Harran', null, null),
+       (833, 63, 'Hilvan', null, null),
+       (834, 63, 'Siverek', null, null),
+       (835, 63, 'Suruç', null, null),
+       (836, 63, 'Merkez', null, null),
+       (837, 63, 'Viranşehir', null, null),
+       (838, 64, 'Banaz', null, null),
+       (839, 64, 'Eşme', null, null),
+       (840, 64, 'Karahallı', null, null),
+       (841, 64, 'Sivaslı', null, null),
+       (842, 64, 'Ulubey', null, null),
+       (843, 64, 'Merkez', null, null),
+       (844, 65, 'Bahçesaray', null, null),
+       (845, 65, 'Başkale', null, null),
+       (846, 65, 'Çaldıran', null, null),
+       (847, 65, 'Çatak', null, null),
+       (848, 65, 'Edremit(Gümüşdere)', null, null),
+       (849, 65, 'Erciş', null, null),
+       (850, 65, 'Gevaş', null, null),
+       (851, 65, 'Gürpınar', null, null),
+       (852, 65, 'Muradiye', null, null),
+       (853, 65, 'Özalp', null, null),
+       (854, 65, 'Saray', null, null),
+       (855, 65, 'Merkez', null, null),
+       (856, 66, 'Akdağmadeni', null, null),
+       (857, 66, 'Aydıncık', null, null),
+       (858, 66, 'Boğazlıyan', null, null),
+       (859, 66, 'Çandır', null, null),
+       (860, 66, 'Çayıralan', null, null),
+       (861, 66, 'Çekerek', null, null),
+       (862, 66, 'Kadışehri', null, null),
+       (863, 66, 'Saraykent', null, null),
+       (864, 66, 'Sarıkaya', null, null),
+       (865, 66, 'Sorgun', null, null),
+       (866, 66, 'Şefaatli', null, null),
+       (867, 66, 'Yenifakılı', null, null),
+       (868, 66, 'Yerköy', null, null),
+       (869, 66, 'Merkez', null, null),
+       (870, 67, 'Alaplı', null, null),
+       (871, 67, 'Çaycuma', null, null),
+       (872, 67, 'Devrek', null, null),
+       (873, 67, 'Gökçebey', null, null),
+       (874, 67, 'Karadenizereğli', null, null),
+       (875, 67, 'Merkez', null, null),
+       (876, 68, 'Ağaçören', null, null),
+       (877, 68, 'Merkez', null, null),
+       (878, 68, 'Eskil', null, null),
+       (879, 68, 'Gülağaç(Ağaçlı)', null, null),
+       (880, 68, 'Güzelyurt', null, null),
+       (881, 68, 'Ortaköy', null, null),
+       (882, 68, 'Sarıyahşi', null, null),
+       (883, 69, 'Aydıntepe', null, null),
+       (884, 69, 'Merkez', null, null),
+       (885, 69, 'Demirözü', null, null),
+       (886, 70, 'Ayrancı', null, null),
+       (887, 70, 'Başyayla', null, null),
+       (888, 70, 'Ermenek', null, null),
+       (889, 70, 'Merkez', null, null),
+       (890, 70, 'Kazımkarabekir', null, null),
+       (891, 70, 'Sarıveliler', null, null),
+       (892, 71, 'Bahşili', null, null),
+       (893, 71, 'Balışeyh', null, null),
+       (894, 71, 'Çelebi', null, null),
+       (895, 71, 'Delice', null, null),
+       (896, 71, 'Karakeçili', null, null),
+       (897, 71, 'Keskin', null, null),
+       (898, 71, 'Merkez', null, null),
+       (899, 71, 'Sulakyurt', null, null),
+       (900, 71, 'Yahşihan', null, null),
+       (901, 72, 'Merkez', null, null),
+       (902, 72, 'Beşiri', null, null),
+       (903, 72, 'Gercüş', null, null),
+       (904, 72, 'Hasankeyf', null, null),
+       (905, 72, 'Kozluk', null, null),
+       (906, 72, 'Sason', null, null),
+       (907, 73, 'Beytüşşebap', null, null),
+       (908, 73, 'Cizre', null, null),
+       (909, 73, 'Güçlükonak', null, null),
+       (910, 73, 'İdil', null, null),
+       (911, 73, 'Silopi', null, null),
+       (912, 73, 'Merkez', null, null),
+       (913, 73, 'Uludere', null, null),
+       (914, 74, 'Amasra', null, null),
+       (915, 74, 'Merkez', null, null),
+       (916, 74, 'Kurucaşile', null, null),
+       (917, 74, 'Ulus', null, null),
+       (918, 75, 'Merkez', null, null),
+       (919, 75, 'Çıldır', null, null),
+       (920, 75, 'Damal', null, null),
+       (921, 75, 'Göle', null, null),
+       (922, 75, 'Hanak', null, null),
+       (923, 75, 'Posof', null, null),
+       (924, 76, 'Aralık', null, null),
+       (925, 76, 'Merkez', null, null),
+       (926, 76, 'Karakoyunlu', null, null),
+       (927, 76, 'Tuzluca', null, null),
+       (928, 77, 'Altınova', null, null),
+       (929, 77, 'Armutlu', null, null),
+       (930, 77, 'Çınarcık', null, null),
+       (931, 77, 'Çiftlikköy', null, null),
+       (932, 77, 'Termal', null, null),
+       (933, 77, 'Merkez', null, null),
+       (934, 78, 'Eflani', null, null),
+       (935, 78, 'Eskipazar', null, null),
+       (936, 78, 'Merkez', null, null),
+       (937, 78, 'Ovacık', null, null),
+       (938, 78, 'Safranbolu', null, null),
+       (939, 78, 'Yenice', null, null),
+       (940, 79, 'Elbeyli', null, null),
+       (941, 79, 'Merkez', null, null),
+       (942, 79, 'Musabeyli', null, null),
+       (943, 79, 'Polateli', null, null),
+       (944, 80, 'Bahçe', null, null),
+       (945, 80, 'Düziçi', null, null),
+       (946, 80, 'Hasanbeyli', null, null),
+       (947, 80, 'Kadirli', null, null),
+       (948, 80, 'Merkez', null, null),
+       (949, 80, 'Sumbas', null, null),
+       (950, 80, 'Toprakkale', null, null),
+       (951, 81, 'Akçakoca', null, null),
+       (952, 81, 'Cumayeri', null, null),
+       (953, 81, 'Çilimli', null, null),
+       (954, 81, 'Merkez', null, null),
+       (955, 81, 'Gölyaka', null, null),
+       (956, 81, 'Gümüşova', null, null),
+       (957, 81, 'Kaynaşlı', null, null),
+       (958, 81, 'Yığılca', null, null);
